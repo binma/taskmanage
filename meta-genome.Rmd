@@ -1,0 +1,9 @@
+---
+title: "Meta-analysis of microbiomes"
+author: "Bin Ma"
+date: "November 2, 2015"
+output: html_document
+---
+
+# What is meta-analysis for microbiomes
+
